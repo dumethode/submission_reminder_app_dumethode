@@ -1,8 +1,3 @@
-# submission_reminder_app_dumethode
-
-cat << 'EOF' > README.md
-### 1.Shell Scripting Assignment – Submission Reminder System
-
 This project automates environment setup, student submission tracking, and reminder generation using Bash shell scripts. It also demonstrates a Git branching workflow with a `feature/setup` branch for rough work and a clean `main` branch for final deliverables.
 
 ---
@@ -97,10 +92,9 @@ This project follows a clean Git workflow:
 
 ## 👨‍💻 Author
 
-- Name: *<Methode Duhujubumwe>*
+- Name: **Methode Duhujubumwe**
 - Assignment: Individual Summative Lab
 
 
 ---
-EOF
 
