@@ -71,6 +71,8 @@ chmod +x create_environment.sh copilot_shell_script.sh
 ---
 
 ##  Sample Output ( find te image below: )
+![image](https://github.com/user-attachments/assets/306d6d99-50a8-4d1c-977e-632e0b3da1b6)
+
 
 ---
 
